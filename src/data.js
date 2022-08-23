@@ -3,32 +3,32 @@ export const projects = [
         title: "POOPS",
         subtitle: "NextJS + Firebase",
         description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "A PWA built for the not for profit charity Pets of Older Persons (POOPS) by the Coders for Causes team. The application helps volunteers track their activities and register concerns. ",
         image: "poops.png",
         link: "https://poops.vercel.app/",
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "AppSpire",
+        subtitle: "MEVN Stack",
         description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-2.gif",
-        link: "https://reedbarger.com",
+        "Capstone project for the CITS3200 Professional Computing unit at UWA. The application is to be used by high school students for campus tour events.",
+        image: "appspire.png",
+        link: "https://huxtable-app-spire-eight.vercel.app/",
     },
     {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "LOLdle",
+        subtitle: "HTML, CSS, JavaScript",
         description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-3.gif",
-        link: "https://jsbootcamp.com",
+        "A wordle-like guessing game inspired by League of Legends. Built for the CITS3403 Agile Web Development unit at UWA using vanilla web development and a flask backend. ",
+        image: "loldle.png",
+        link: "https://loldle-app.herokuapp.com/",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "Personal Portfolio",
+        subtitle: "React + Netlify",
         description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
-        link: "https://pythonbootcamp.com",
+        "My personal developer portfolio website built using React with styling done in tailwind css. Currently deployed on Netlify using GitHub. Inspired by many tutorials on Youtube and FreeCodeCamp.",
+        image: "portfolio.png",
+        link: "https://www.glen-nguyen.com/",
     },
 ];
