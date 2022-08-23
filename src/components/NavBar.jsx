@@ -1,8 +1,5 @@
 import React, { useState } from 'react';
-import {
-    FaBars,
-    FaTimes,
-} from 'react-icons/fa';
+import { FaBars, FaTimes } from 'react-icons/fa';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -10,7 +7,7 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav);
 
     return (
-        <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
+        <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 z-40'>
             <div>
                 <h1 className="text-5xl ml-2">Glen Nguyen</h1>
             </div>
